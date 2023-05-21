@@ -1,0 +1,117 @@
+/* ............... small mobile */
+@media only screen and (max-width: 670px) {
+  body {
+    background-color: green;
+  }
+
+  .div_one {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .div_two {
+    margin-left: 0 !important;
+    margin-top: 4px !important;
+    width: 360px !important;
+    height: 500px !important;
+    margin-bottom: 10px;
+  }
+  .card {
+    display: grid !important;
+    grid-template-columns: auto auto !important;
+    grid-gap: 6px !important;
+  }
+  .main_student_table {
+    margin-right: 20px !important;
+    width: 475px !important;
+  }
+  .search_input {
+    margin-left: 14px !important;
+  }
+  .search_btn {
+    margin-top: 5px !important;
+  }
+  .tbale__ {
+    width: 1000px !important;
+
+  }
+  /* ...................... add student  */
+  .student_add_admin {
+    height: 330vh !important;
+    width: 460px !important;
+  }
+  .add_student_grid,
+  .parent_type {
+    display: grid;
+    grid-template-columns: auto !important;
+  }
+  .name_input,
+  .sex_class_type,
+  .class_type_input,
+  .class_type_input,
+  .blood_type_div,
+  .Religion_type_div,
+  .fathers_input,
+  .mothers_input,
+  .email_input,
+  .phone_input,
+  .addres_input {
+    width: 300px !important;
+  }
+  .name_input_div,
+  .blood_type_div,
+  .Religion_type_div,
+  .fathers_input,
+  .phone_input,
+  .father_accuption,
+  .adress_div {
+    margin-left: 8px !important;
+  }
+  .mother_label,
+  .phone_label,
+  .father_accupation_label {
+    margin-left: 8px !important;
+  }
+  .sex_type_input,
+  .class_type_div,
+  .class_type_div,
+  .blood_type_input,
+  .Religion_type_input,
+  .religion_div,
+  .upload_photo
+  {
+    display: flex;
+    margin-top: 10px !important;
+    margin-bottom: 4px !important;
+    flex-direction: column !important;
+    margin-left: 0px !important;
+  }
+
+  /* ............ student_promotion */
+  .student_promo_div_main{
+     height: 100vh !important;
+    width: 460px !important;
+    margin-bottom: 30px !important;
+  }
+  .student_promotion{
+     display: grid;
+    grid-template-columns: auto !important;
+  }
+  .prom_name_div{
+     display: flex;
+    margin-top: 10px !important;
+    margin-bottom: 4px !important;
+    flex-direction: column !important;
+    margin-left: 0px !important;
+
+  }
+  .prom_name_div_margin{
+    margin-left: 10px !important;
+  }
+  .prom_student_input{
+    width: 300px !important;
+
+  }
+}
+
+/* ................ tailwincd break points */
+/* lg:bg-red-400 md:bg-green-400 sm:bg-yellow-500" */

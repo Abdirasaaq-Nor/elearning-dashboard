@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "7",
+    "subject": "english",
+    "address": "mogdisho-taleex",
+    "dataofbirth": "1/2/2002",
+    "phone": "252617611425"
+  },
+  {
+    "id": 2,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "1",
+    "subject": "math",
+    "address": "mogdisho-taleex",
+    "dataofbirth": "1/2/2002",
+    "phone": "252617611425"
+  },
+  {
+    "id": 3,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "11",
+    "subject": "chemsyr",
+    "address": "mogdisho-taleex",
+    "dataofbirth": "1/2/2002",
+    "phone": "252617611425"
+  },
+  {
+    "id": 4,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "8",
+    "subject": "bilogy",
+    "address": "mogdisho-taleex",
+    "dataofbirth": "1/2/2002",
+    "phone": "252617611425"
+  },
+  {
+    "id": 5,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "9",
+    "subject": "math",
+    "address": "mogdisho-taleex",
+    "dataofbirth": "1/2/2002",
+    "phone": "252617611425"
+  },
+  {
+    "id": 6,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "5",
+    "subject": "physics",
+    "address": "mogdisho-taleex",
+    "dataofbirth": "1/2/2002",
+    "phone": "252617611425"
+  },
+  {
+    "id": 7,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "4",
+    "subject": "tarbiyo",
+    "address": "mogdisho-taleex",
+    "dataofbirth": "1/2/2002",
+    "phone": "252617611425"
+  },
+  {
+    "id": 8,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "2",
+    "subject": "english",
+    "address": "mogdisho-taleex",
+    "dataofbirth": "1/2/2002",
+    "phone": "252617611425"
+  },
+  {
+    "id": 9,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "1",
+    "Subject": "english",
+    "address": "mogdisho-taleex",
+    "dataofbirth": "1/2/2002",
+    "phone": "252617611425"
+  }
+]

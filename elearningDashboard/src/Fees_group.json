@@ -1,0 +1,56 @@
+[
+  {
+    "No": "1",
+    "Name": "Bashir",
+    "Fees type": ["Feeding Fee: $140, \nMaintaince: $200, \nTution: $300"],
+    "Description": "To be paid every \n semester"
+  },
+  {
+    "No": "2",
+    "Name": "Bashir",
+    "Fees type": "Feeding Fee: $140 \n Maintaince: $200, Tution: $300",
+    "Description": "To be paid every \n semester"
+  },
+  {
+    "No": "3",
+    "Name": "Bashir",
+    "Fees type": "Feeding Fee: $140 \n Maintaince: $200, Tution: $300",
+    "Description": "To be paid every \n semester"
+  },
+  {
+    "No": "4",
+    "Name": "Bashir",
+    "Fees type": "Feeding Fee: $140 \n Maintaince: $200, Tution: $300",
+    "Description": "To be paid every \n semester"
+  },
+  {
+    "No": "5",
+    "Name": "Bashir",
+    "Fees type": "Feeding Fee: $140 \n Maintaince: $200, Tution: $300",
+    "Description": "To be paid every \n semester"
+  },
+  {
+    "No": "6",
+    "Name": "Bashir",
+    "Fees type": "Feeding Fee: $140 \n Maintaince: $200, Tution: $300",
+    "Description": "To be paid every \n semester"
+  },
+  {
+    "No": "7",
+    "Name": "Bashir",
+    "Fees type": "Feeding Fee: $140 \n Maintaince: $200, Tution: $300",
+    "Description": "To be paid every \n semester"
+  },
+  {
+    "No": "8",
+    "Name": "Bashir",
+    "Fees type": "Feeding Fee: $140 \n Maintaince: $200, Tution: $300",
+    "Description": "To be paid every \n semester"
+  },
+  {
+    "No": "9",
+    "Name": "Bashir",
+    "Fees type": "Feeding Fee: $140 \n Maintaince: $200, Tution: $300",
+    "Description": "To be paid every \n semester"
+  }
+]

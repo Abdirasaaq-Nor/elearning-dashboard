@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "7",
+    "amount": "$20.000.000",
+    "Status": "Paid",
+    "Parent email": "rasaaq883@gmail.com",
+    "parent phone": "252617611425"
+  },
+  {
+    "id": 2,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "7",
+    "amount": "$22.000.000",
+    "Status": "UnPaid",
+    "Parent email": "rasaaq883@gmail.com",
+    "parent phone": "252617611425"
+  },
+  {
+    "id": 3,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "7",
+    "amount": "$1.000.000",
+    "Status": "Paid",
+    "Parent email": "rasaaq883@gmail.com",
+    "parent phone": "252617611425"
+  },
+  {
+    "id": 4,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "7",
+    "amount": "$11.000.000",
+    "Status": "UnPaid",
+    "Parent email": "rasaaq883@gmail.com",
+    "parent phone": "252617611425"
+  },
+  {
+    "id": 5,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "7",
+    "amount": "$17.000.000",
+    "Status": "Paid",
+    "Parent email": "rasaaq883@gmail.com",
+    "parent phone": "252617611425"
+  },
+  {
+    "id": 6,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "7",
+    "amount": "$17.000.000",
+    "Status": "Paid",
+    "Parent email": "rasaaq883@gmail.com",
+    "parent phone": "252617611425"
+  },
+  {
+    "id": 7,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "7",
+    "amount": "$14.000.000",
+    "Status": "UnPaid",
+    "Parent email": "rasaaq883@gmail.com",
+    "parent phone": "252617611425"
+  },
+  {
+    "id": 8,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "7",
+    "amount": "$18.000.000",
+    "Status": "UnPaid",
+    "Parent email": "rasaaq883@gmail.com",
+    "parent phone": "252617611425"
+  },
+  {
+    "id": 9,
+    "name": "Abdirsaq nor",
+    "Gender": "Male",
+    "class": "7",
+    "amount": "$18.000.000",
+    "Status": "UnPaid",
+    "Parent email": "rasaaq883@gmail.com",
+    "parent phone": "252617611425"
+  }
+  
+]
