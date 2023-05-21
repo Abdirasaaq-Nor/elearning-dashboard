@@ -12,3 +12,10 @@ project contents.
 Dashboard
 
 ![Screenshot (794)](https://github.com/Abdirasaaq-Nor/elearning-dashboard/assets/93242333/d2dad5bd-c786-4e9d-8547-8bedd5774777)
+
+
+Setting.
+
+
+![Screenshot (795)](https://github.com/Abdirasaaq-Nor/elearning-dashboard/assets/93242333/196d5ff9-a8af-4b0d-a547-9db64c5fb388)
+
