@@ -1,4 +1,7 @@
 # elearning-dashboard
+To use.
+1.npm run dev
+
 project contents.
 1. Tailwincd css
 1. React route v6
